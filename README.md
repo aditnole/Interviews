@@ -1,31 +1,27 @@
 # Analytics Interview Preparation Guide
 
-A comprehensive collection of interview preparation materials curated by an experienced analytics professional. This repository serves as a structured guide for both technical and non-technical aspects of analytics interviews.
+A collection of real interview questions and scenarios I've encountered throughout my analytics career. This guide covers both technical challenges and practical situations you might face in analytics interviews.
 
 ## Contents
 
-- [Technical Interview Preparation](technical.md) - Core technical skills, data analysis, SQL, Python, and statistical concepts
-- [Behavioral Interview Guide](behavioral.md) - [WIP] Common behavioral questions and best practices for analytics roles
-- [Stakeholder Management](stakeholder.md) - [WIP] Strategies for effective stakeholder communication and project management
+- [Technical Interview Preparation](technical.md) - Real technical questions covering data analysis, SQL, Python, and stats
+- [Behavioral Interview Guide](behavioral.md) - [WIP] Common behavioral questions and how to tackle them
+- [Stakeholder Management](stakeholder.md) - [WIP] Real-world scenarios and how to handle them
 
 ## About This Guide
 
-This repository is designed to help analytics professionals prepare for interviews at various levels, from entry-level data analysts to senior analytics leadership roles. The materials are based on real-world experience and industry best practices.
+This is a practical guide based on actual interview experiences, from entry-level data analyst roles to senior positions. Each section includes real questions and scenarios I've encountered, along with approaches that worked.
 
-## Key Focus Areas
+## What You'll Find Here
 
-- Data Analysis & Visualization
-- SQL & Database Management
-- Python Programming for Analytics
-- Statistical Analysis & A/B Testing
-- Business Intelligence & Reporting
-- Data Storytelling
-- Project Management
-- Stakeholder Communication
+- Real interview questions and scenarios
+- Practical solutions and approaches
+- Common pitfalls to avoid
+- Tips from actual interview experiences
 
 ## Contributing
 
-Feel free to contribute to this repository by submitting pull requests or opening issues for discussion.
+Found a great question or have a better solution? Feel free to contribute!
 
 ## License
 

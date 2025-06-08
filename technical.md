@@ -225,7 +225,7 @@ GROUP BY b.activity_date, b.activity_type, r.retained_users;
 # 💼 EdTech B Interview Experience
 
 ## 🧪 Round: Product Strategy
-**👤 Interviewer**: Michaela  
+**👤 Interviewer**: mmmmm  
 **📅 Date**:  
 **🏷️ Tags**: `Product Strategy`, `A/B Testing`, `Retention`, `Experiment Design`, `Subscription Models`, `Churn Analysis`, `EdTech`, `Behavioral Analytics`
 
